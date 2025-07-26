@@ -4,7 +4,7 @@ import "./sass/all.scss";
 
 import { Advice } from "./components/AdviceApp/Advice";
 import WeatherApp from "./components/WeatherApp/weatherApp";
-import { Currency } from "./components/currency/currency";
+import { Currency } from "./components/currency/Currency";
 import Qr_code from "./components/Qr_code/Qr_code";
 import Qrcode from "./components/QR_Code_Tutore/Qr_Code";
 import { UseState } from "./components/UseState/UseState";
